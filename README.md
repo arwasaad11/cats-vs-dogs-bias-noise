@@ -6,8 +6,8 @@ classifier, and how to fix them. The task is binary image classification
 targeted solutions: data cleaning, class weights, data augmentation and
 **transfer learning with ResNet50**.
 
-> Academic project — Advanced Image Processing, Jeddah University.
-
+> Academic project (Advanced Machine Learning, Taif University).
+> author: **Arwa Saad Alsawat** 
 ---
 
 ## The problem
