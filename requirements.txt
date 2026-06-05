@@ -1,0 +1,5 @@
+tensorflow
+scikit-learn
+pillow
+numpy
+matplotlib
