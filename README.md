@@ -7,7 +7,6 @@ targeted solutions: data cleaning, class weights, data augmentation and
 **transfer learning with ResNet50**.
 
 > Academic project — Advanced Image Processing, Jeddah University.
-> Author: **Norah Dubayyan Altowairqi** · Supervisor: **Dr. Rehab Qarout**.
 
 ---
 
